@@ -1,7 +1,7 @@
 # rom-0 Decompressor
 
 
-    git clone https://github.com/todordonev/zyxel-revert/
+    git clone https://github.com/todordonev/zyxel-revert
 
 
 Install:
